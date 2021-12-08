@@ -1,6 +1,6 @@
 # Rental market in Espoo 🇫🇮
 
-2229 ads was gathered in the beginning of December 2021 cleand and represented in dashboard.
+2229 ads were gathered at the beginning of December 2021 cleaned and represented in the dashboard.
 
 Link to the dash: [Tableau Public Pages](https://public.tableau.com/views/RentalmarketinEspoo/RentalmarketinEspoo?:language=en-US&:display_count=n&:origin=viz_share_link)
 
