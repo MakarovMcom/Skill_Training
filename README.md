@@ -2,4 +2,4 @@
 
 ## Table of content:
 
-**[1. Rental market in Espoo](12.%20Game%20Project%20(Final)/README.md)** <br />
+**[1. Rental market in Espoo](Skill_Training/Finland/vuokraovi/README.md)** <br />
